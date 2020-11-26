@@ -1,0 +1,126 @@
+body{
+	font-family: 'Roboto Condensed', sans-serif;
+	background: #e9ebee;
+}
+
+header{
+	background: #29487d;
+	margin: -10px -10px -10px -10px;
+}
+
+.head{
+	margin-left:10%;
+	display: flex;
+	color:#fff;
+	padding-top:15px;
+	
+}
+
+.head a{
+	background:#42b72a;
+	color:white;
+	font-size:12px;
+	padding: 8px;
+	text-decoration: none;
+}
+
+.head p{
+	margin-top: 30px;
+	margin-left: 6px;
+}
+
+.container{
+    margin: auto;
+    padding: 22px 108px 26px;
+    width: 396px;
+    background: white;
+    margin-top: 50px;
+}
+
+#para{
+	text-align: center;
+	color:grey;
+	font-size:20px;
+	margin-right: 70px;
+}
+
+.box input{
+	width:284px;
+	height: 25px;
+	padding: 5px 8px;
+	font-size: 14px;
+	border: 2px solid #dddfe2;
+}
+
+.box{
+	padding: 5px;
+}
+
+.log-in {
+	text-align: center;
+	background: #29487d;
+	width:284px;
+	height: 20px;
+	padding: 10px;
+	margin-left: 10px;
+}
+
+.log-in a{
+	color:#fff;
+	text-decoration: none;
+}
+
+#forget{
+	text-align: center;
+	padding: 20px;
+	margin-right: 50px;
+}
+
+#forget a{
+	color:blue;
+	text-decoration: none;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.line{
+	display: flex;
+	justify-content: center;
+	margin-right: 70px;
+}
+
+.or{
+	margin-top: -25px;
+	padding: 25px;
+}
+
+.line1{
+	display: inline-block;
+	width: 110px;
+}
+
+.line2{
+	display: inline-block;
+	width: 110px
+}
+
+.account{
+	background: #42b72a;
+	width: 180px;
+	height: 40px;
+	margin-left: 80px;
+	margin-top: -30px;
+}
+
+.account p{
+	text-align: center;
+	color:#fff;
+	padding: 12px;
+	font-size: 14px;
+	font-weight: bold;
+}
+
+.not{
+	text-align: center;
+	color:blue;
+}
